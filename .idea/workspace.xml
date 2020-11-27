@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83d207db-aca3-4c85-a595-588c5304603a" name="Default Changelist" comment="">
+    <list default="true" id="83d207db-aca3-4c85-a595-588c5304603a" name="Default Changelist" comment="ajouter champs fait dans entretien">
       <change afterPath="$PROJECT_DIR$/../humanressourcesewfo/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aos/projet/HumanRessourceBo/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aos/projet/HumanRessourceBo/security/WebSecurityConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +146,7 @@
       <workItem from="1605809670452" duration="3792000" />
       <workItem from="1606344023096" duration="16373000" />
       <workItem from="1606499505572" duration="6000" />
-      <workItem from="1606499858108" duration="3656000" />
+      <workItem from="1606499858108" duration="4755000" />
     </task>
     <task id="LOCAL-00001" summary="Service manquante">
       <created>1562746229784</created>
@@ -188,6 +186,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1606426553106" />
+    <state x="2391" y="19" width="967" height="1039" key="CommitChangelistDialog2" timestamp="1606505327528">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2391" y="19" width="967" height="1039" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606505327528" />
     <state x="2694" y="200" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605809431548">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
